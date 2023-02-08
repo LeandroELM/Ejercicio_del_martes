@@ -1,0 +1,11 @@
+D:\AABM\6-2-2023\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
+D:\AABM\6-2-2023\Practica\obj\Debug\Practica.csproj.SuggestedBindingRedirects.cache
+D:\AABM\6-2-2023\Practica\obj\Debug\Practica.Properties.Resources.resources
+D:\AABM\6-2-2023\Practica\obj\Debug\Practica.csproj.GenerateResource.cache
+D:\AABM\6-2-2023\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+D:\AABM\6-2-2023\Practica\bin\Debug\Practica.exe.config
+D:\AABM\6-2-2023\Practica\bin\Debug\Practica.exe
+D:\AABM\6-2-2023\Practica\bin\Debug\Practica.pdb
+D:\AABM\6-2-2023\Practica\obj\Debug\Practica.exe
+D:\AABM\6-2-2023\Practica\obj\Debug\Practica.pdb
+D:\AABM\6-2-2023\Practica\obj\Debug\Practica.Form2.resources
